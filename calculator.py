@@ -9,7 +9,7 @@ def Carpma(sayi1, sayi2):
     return sayi1 * sayi2
 
 def Bolme(sayi1, sayi2):
-    return sayi1 * sayi2
+    return sayi1 / sayi2
   
 print("\n***Kullanılabilecek Uygulamalar*** \n" \
         "1. Toplama\n" \
